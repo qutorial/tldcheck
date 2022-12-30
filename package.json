@@ -21,7 +21,7 @@
   "author": "Zaur Molotnikov <qutorial@gmail.com> (https://molotnikov.de/)",
   "license": "ISC",
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "typescript": "^3.4.5"
   },
   "bugs": {
